@@ -52,3 +52,13 @@
 Примеры уже немного сложнее.
 
 Время: 1:15 книга
+
+## Day 9: December 21, 2017
+
+Продолжаю читать. Сегодня были: списки, persistent queue, sets.
+По множествам продолжу читать дальше о namespace clojure.set.
+
+Время: 1 час книга
+
+[Код](https://github.com/natenka/100-days-of-Clojure/commit/0567d12892afed0ddb2ff86b3a898b064457df1a)
+
