@@ -62,3 +62,13 @@
 
 Code: [Код](https://github.com/natenka/100-days-of-Clojure/commit/0567d12892afed0ddb2ff86b3a898b064457df1a). [Решила задачки 18-21 4clojure](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day009-problem-18-21.clj)
 
+
+## Day 10: December 22, 2017
+
+Сегодня дочитала про множества. Остальное время решала две задачки
+
+Время: 40 минут книга, 1:20 задачки 4clojure
+
+Code: [4clojure Problems 22-23](https://github.com/natenka/100-days-of-Clojure/commit/cdc4382690987a99a9e738f5239d6707cb2dc1d6)
+
+
