@@ -27,6 +27,10 @@
 Плюс первый раз получился код больше 5-10 строк :)
 [Сегодняшний прогресс](https://github.com/natenka/100-days-of-Clojure/commit/10c752ec4f99af45e88ade7007d1d0e6835d37b6)
 
+Вот такие картинки сегодня получились:
+
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day004/clojure_draws.png" width="400">
+
 Время: 2 часа книга. Из этого час на практический пример
 
 ## Day 5: December 15, 2017
@@ -70,5 +74,9 @@ Code: [Код](https://github.com/natenka/100-days-of-Clojure/commit/0567d12892a
 Время: 40 минут книга, 1:20 задачки 4clojure
 
 Code: [4clojure Problems 22-23](https://github.com/natenka/100-days-of-Clojure/commit/cdc4382690987a99a9e738f5239d6707cb2dc1d6)
+
+Надеюсь, что к 100 дню мои ответы будут похожи на решение :)
+
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day010/my_answer-vs-solution.png" width="400">
 
 
