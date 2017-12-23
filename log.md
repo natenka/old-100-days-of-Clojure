@@ -76,7 +76,22 @@ Code: [Код](https://github.com/natenka/100-days-of-Clojure/commit/0567d12892a
 Code: [4clojure Problems 22-23](https://github.com/natenka/100-days-of-Clojure/commit/cdc4382690987a99a9e738f5239d6707cb2dc1d6)
 
 Надеюсь, что к 100 дню мои ответы будут похожи на решение :)
+Но пока что и такое решение для меня круто.
 
 <img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day010/my_answer-vs-solution.png" width="400">
+
+
+## Day 11: December 23, 2017
+
+Закончила читать 5 раздел. В следующих разделах сложность примеров растет довольно быстро, поэтому пока тренируюсь на задачках 4clojure.
+Сегодня решила 5 задачек 24-28.
+
+Время: 20 минут книга, 2:40 задачки 4clojure
+
+Code: [4clojure Problems 24-28](https://github.com/natenka/100-days-of-Clojure/commit/fced79605938c6e86c402e206be674440ac9282d)
+
+Сколько магии еще предстоит изучить :)
+
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day011/my_answer-vs-solution.png" width="400">
 
 
