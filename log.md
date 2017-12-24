@@ -98,3 +98,13 @@ Code: [4clojure Problems 24-28](https://github.com/natenka/100-days-of-Clojure/c
 
 <img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day011/100daysofclojure.png" width="700">
 
+## Day 12: December 24, 2017
+
+Сегодня только задачки. Решила 4 задачи 29-32.
+Надо обязательно разобраться с функциями в [quickref](https://clojuredocs.org/quickref).
+
+Время: 2:00 задачки 4clojure
+
+Code: [4clojure Problems 29-32](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day012-problem-29-32.clj)
+
+
