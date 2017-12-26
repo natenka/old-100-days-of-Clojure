@@ -117,3 +117,9 @@ Code: [4clojure Problems 29-32](https://github.com/natenka/100-days-of-Clojure/b
 Code: [4clojure Problems 33-40](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day013-problem-33-40.clj)
 
 
+## Day 14: December 26, 2017
+
+Сегодня только полчаса почитала книгу.
+
+Время: 30 мин
+
