@@ -52,3 +52,14 @@ interleave работает как zip в Python:
 ;{1 10, 2 20, 3 30}
 ```
 
+
+## interpose
+
+```clojure
+(interpose 0 [1 2 3])
+;(1 0 2 0 3)
+
+(apply str (interpose ", " ["a" "b" "c"]))
+;"a, b, c"
+```
+
