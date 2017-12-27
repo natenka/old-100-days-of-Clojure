@@ -123,3 +123,12 @@ Code: [4clojure Problems 33-40](https://github.com/natenka/100-days-of-Clojure/b
 
 Время: 30 мин
 
+## Day 15: December 27, 2017
+
+Сегодня только задачки. Решила 4 задачи 41-44. Две из них medium сложности.
+
+Время: 2:50 задачки 4clojure
+
+Code: [4clojure Problems 41-44](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day015-problem-41-44.clj)
+
+
