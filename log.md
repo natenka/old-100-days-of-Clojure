@@ -132,3 +132,11 @@ Code: [4clojure Problems 33-40](https://github.com/natenka/100-days-of-Clojure/b
 Code: [4clojure Problems 41-44](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day015-problem-41-44.clj)
 
 
+## Day 16: December 28, 2017
+
+Сегодня только задачки. Решила 8 задач 45-52.
+
+Время: 1:10 задачки 4clojure
+
+Code: [4clojure Problems 45-52](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day016-problem-45-52.clj)
+
