@@ -188,4 +188,17 @@ Clojure я буду учить параллельно. Посмотрим, чт�
 
 Code: [4clojure Problems 54-56](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day021-problem-54-56.clj)
 
+## Day 22: January 4, 2018
+
+Сегодня решила две задачки и 40 минут почитала.
+
+Время: 1:00 задачки 4clojure, 40 мин "The Joy of Clojure".
+
+Code: [4clojure Problems 57-58](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day022-problem-57-58.clj)
+
+Я иногда забываю коммитить обновления, поэтому самый точный прогресс виден по Toggl:
+
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day022/100DaysOfClojure_R1D22_progress.PNG" width="700">
+
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day022/100DaysOfClojure_R1D22" width="700">
 
