@@ -200,5 +200,5 @@ Code: [4clojure Problems 57-58](https://github.com/natenka/100-days-of-Clojure/b
 
 <img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day022/100DaysOfClojure_R1D22_progress.PNG" width="700">
 
-<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day022/100DaysOfClojure_R1D22" width="700">
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day022/100DaysOfClojure_R1D22.PNG" width="700">
 
