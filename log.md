@@ -180,3 +180,12 @@ Clojure я буду учить параллельно. Посмотрим, чт�
 
 Время: 1 час книга
 
+## Day 20: January 2, 2018
+
+Сегодня решила три задачки и полчаса почитала.
+
+Время: 1:00 задачки 4clojure, 30 мин "The Joy of Clojure".
+
+Code: [4clojure Problems 54-56](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day021-problem-54-56.clj)
+
+
