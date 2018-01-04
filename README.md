@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfClojure Challenge.
 
-## [Лог моих занятий 100 days of Clojure](log.md)
+## [Лог моих занятий 100 days of Clojure](https://natenka.github.io/100daysofclojure/)
 
 ## Правила
 
