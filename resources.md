@@ -12,4 +12,10 @@
 ### Полезные ссылки
 
 * [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/)
+* [A Clojure Newbie Guide](http://www.clojurenewbieguide.com/)
+* [Resources for thinking in Clojure?](https://www.reddit.com/r/Clojure/comments/1v77fo/resources_for_thinking_in_clojure/)
 
+
+### Lazy seqs
+
+* [Lazy Sequences in Clojure](http://theatticlight.net/posts/Lazy-Sequences-in-Clojure/)
